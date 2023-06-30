@@ -74,7 +74,7 @@ ul{
 
 .bild{
   background-color: grey;
-  flex: 0 0 400px;
+  flex: 0 1 400px;
   height: 200px;
 }
 
